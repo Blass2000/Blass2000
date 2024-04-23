@@ -2,6 +2,7 @@
 
 💬 Ask me about ...
 Project Mangement, Product Management, IT management and using technoogy to chaange the world. 
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
 <!--
 **Blass2000/Blass2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
