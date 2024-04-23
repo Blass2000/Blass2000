@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-<head>
   <meta charset="UTF-8" />
 
   {% seo %}
