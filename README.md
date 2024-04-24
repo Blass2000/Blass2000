@@ -2,6 +2,7 @@
 
 💬 Ask me about ...
 Project Mangement, Product Management, IT management and using technoogy to chaange the world. 
+
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
 <!--
@@ -19,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-    </footer>
-  </main>
-</body>
+
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/baa0199c-9770-4dd1-bfc0-c7e159a156d1)
+
