@@ -26,7 +26,8 @@ Some of my favorite applicationc
 
 # Development Frontend/backend
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/baa0199c-9770-4dd1-bfc0-c7e159a156d1)
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/baa0199c-9770-4dd1-bfc0-c7e159a156d1) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/e3974586-4ad4-44f9-8cdb-ced44332e952) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/a97abd73-6e6b-49c7-a3c9-8ada1965570e)
+
 
 # Business Intelligence 
 
@@ -34,8 +35,7 @@ Some of my favorite applicationc
 
 # Databases
 
-|![image](https://github.com/Blass2000/Blass2000/assets/89789502/742a37cc-fd04-4497-bd36-19a40180ada4) |![image](https://github.com/Blass2000/Blass2000/assets/89789502/b0ab05f7-a7a3-4b36-adfd-6a77f5e35c5c)
-|![image](https://github.com/Blass2000/Blass2000/assets/89789502/60faedc5-97c5-4b5c-835e-a4011266daba)
-|
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/742a37cc-fd04-4497-bd36-19a40180ada4) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/b0ab05f7-a7a3-4b36-adfd-6a77f5e35c5c) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/d8357ec5-7e75-4d04-b35d-8bef15fbf71e)
+
 # Collaboration 
 
