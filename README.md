@@ -32,6 +32,4 @@ Business Intelligence
 Databases
 
 Collaboration 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/980a75bd-856f-4572-9706-acba11f44a81)
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/a7a42c44-dad0-4268-bd70-c240dee56c90)
