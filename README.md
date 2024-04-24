@@ -20,6 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Some of my favorite applicatoins 
 
+Cloud Domains
+
+Development Frontend/backend
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/baa0199c-9770-4dd1-bfc0-c7e159a156d1)
 
+Business Intelligence 
+
+Databases
+
+Collaboration 
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/980a75bd-856f-4572-9706-acba11f44a81)
+
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/a7a42c44-dad0-4268-bd70-c240dee56c90)
