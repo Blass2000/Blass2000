@@ -30,10 +30,7 @@ Development Frontend/backend
 
 Business Intelligence 
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/4fb19615-33d0-4f4d-bd52-4a20d45c89c8)
-
-
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/2b60dd7c-658e-4373-b6d6-c4531e3eacd2)
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/4fb19615-33d0-4f4d-bd52-4a20d45c89c8) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/2b60dd7c-658e-4373-b6d6-c4531e3eacd2)
 
 
 Databases
