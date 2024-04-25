@@ -35,10 +35,9 @@ Some of my favorite applicationc
 # Business Intelligence 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/65c678e9-96ea-4f84-8d0d-833836acbcd3)
 
-
 # Databases
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/742a37cc-fd04-4497-bd36-19a40180ada4) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/b0ab05f7-a7a3-4b36-adfd-6a77f5e35c5c) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/d8357ec5-7e75-4d04-b35d-8bef15fbf71e)
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/24ec2d0c-a12a-4f43-8024-aff90016c083)
 
 # Collaboration 
 
