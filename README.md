@@ -33,8 +33,8 @@ Some of my favorite applicationc
 
 
 # Business Intelligence 
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/65c678e9-96ea-4f84-8d0d-833836acbcd3)
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/4fb19615-33d0-4f4d-bd52-4a20d45c89c8) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/2b60dd7c-658e-4373-b6d6-c4531e3eacd2) ![image](https://github.com/Blass2000/Blass2000/assets/89789502/b7c24004-88f3-4309-b97f-8860859e498b)
 
 # Databases
 
