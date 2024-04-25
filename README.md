@@ -39,5 +39,4 @@ Some of my favorite applicationc
 
 # Collaboration 
 
-border: 10px solid #ff0000;
-
+background-color: #eedddd;
