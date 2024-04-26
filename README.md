@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Some of my favorite applicationc
+Some of my favorites over the years- - where I have enjoyed hands-on experience with these solutions. 
 
 # Cloud Domains
 
