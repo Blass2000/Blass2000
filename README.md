@@ -43,4 +43,5 @@ Some of my favorites over the years- - where I have enjoyed hands-on experience 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/24ec2d0c-a12a-4f43-8024-aff90016c083)
 
 # Collaboration 
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/2194b92b-0838-4517-9f77-7bb9a34b603c)
 
