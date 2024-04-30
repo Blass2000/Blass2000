@@ -1,10 +1,4 @@
 ### Hi there 👋
-## Sidebar
-
-- [Introductoin](./Introduction)
-- [Project Management](./Project Management)
-- [Healthcare Samples](./Java-Samples)
-- [Code Samples](./Project-Samples)
 
 ## Introduction
 
@@ -15,6 +9,7 @@ Project Mangement, Product Management, IT management and using technoogy to chaa
 
 <!--
 **Blass2000/Blass2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
