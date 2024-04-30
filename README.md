@@ -1,5 +1,11 @@
 ### Hi there 👋
+## Sidebar
 
+- [Introductoin](./Introduction)
+- [Project Management](./Project Management)
+- [Healthcare Samples](./Java-Samples)
+- [Code Samples](./Project-Samples)
+-
 💬 Ask me about ...
 Project Mangement, Product Management, IT management and using technoogy to chaange the world. 
 
