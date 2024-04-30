@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 Some of my favorites over the years- - where I have enjoyed hands-on experience with these solutions. 
 
 # Cloud Domains
-
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/095184af-04e9-4902-b14d-38d56e8eb649)
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/b6497c89-c7e8-4c3a-8ee4-7300eeaa03d3)
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/041505d9-916a-4c5e-9650-7ff80614ef69)
 
 
