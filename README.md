@@ -4,6 +4,14 @@
 
 💬 Ask me about ...
 Project Mangement, Product Management, IT management and using technology to chaange the world. 
+I have over twenty years of technical development, IT and vendor management experience with the skills tailored to drive success in a thriving organization. Some of my key qualifications and experience include;
+• Over a decade +of successfully implementing technical projects using a variety of management techniques.
+• Sound technical discipline that includes software development, software/ hardware implementation 
+• Proven ability to lead individuals and drive growth while participating in the development of the product during the building process
+• Ability to develop and maintain technology strategy/roadmaps in collaboration with applicable business technology partners
+• A successful track record of working, developing, designing and presenting highly usable technical products for clients across the United States.
+I love cheeseckae and a well tailoered flan. 
+
 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
