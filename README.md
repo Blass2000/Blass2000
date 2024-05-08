@@ -3,7 +3,7 @@
 ## Introduction
 
 💬 Ask me about ...
-Project Mangement, Product Management, IT management and using technology to chaange the world. 
+Project Mangement, Product Management, IT management and former developer using technology to chaange the world. 
 -⚡ Fun fact: ...
 - Over twenty years of technical development, IT and vendor management experience with the skills tailored to drive success in a thriving organization.
 - Over a decade +of successfully implementing technical projects using a variety of management techniques.
