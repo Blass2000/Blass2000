@@ -14,6 +14,9 @@ Project Mangement, Product Management, IT management and former developer using 
 - A successful track record of working, developing, designing and presenting highly usable technical products for clients across the United States.
 - I love cheeseckae and a well tailoered flan. 
 
+WIKI
+https://github.com/Blass2000/Blass2000/wiki
+
 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
