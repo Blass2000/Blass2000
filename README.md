@@ -18,10 +18,12 @@ Project Mangement, Product Management, IT management and former developer using 
 
 ## https://github.com/Blass2000/Blass2000/wiki
 
-
 ## WIKI- Technical Managment 
 
-## https://github.com/Blass2000/Blass2000/wiki/3.Lets-Talk-Tech
+##  ![image](https://github.com/user-attachments/assets/b5cae770-3653-424e-bdf2-3c2741cb2ea1)
+
+
+https://github.com/Blass2000/Blass2000/wiki/3.Lets-Talk-Tech
 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
