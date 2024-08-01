@@ -20,7 +20,7 @@ Project Mangement, Product Management, IT management and former developer using 
 
 ## WIKI- Technical Managment 
 
-##  https://github.com/Blass2000/Blass2000/wiki/3.Lets-Talk-Tech
+## https://github.com/Blass2000/Blass2000/wiki/5.Lets-Talk-Tech
 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/c915656d-ddb5-401b-b4b9-a84c9161c231)
 
