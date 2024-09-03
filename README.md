@@ -14,11 +14,11 @@ Project Mangement, Product Management, IT management and former developer using 
 - A successful track record of working, developing, designing and presenting highly usable technical products for clients across the United States.
 - I love cheeseckae and a well tailoered flan. 
 
-## WIKI- Project and Product Management 
+## Check out my- Project and Product Management WIKI
 
 ## https://github.com/Blass2000/Blass2000/wiki/1.ProjectManagement
 
-## WIKI- Technical Managment 
+## Check out my- Technical Managment WIKI
 
 ## https://github.com/Blass2000/Blass2000/wiki/5.Lets-Talk-Tech
 
