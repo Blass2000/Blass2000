@@ -12,6 +12,7 @@ Project Mangement, Product Management, IT management and former developer using 
 - Proven ability to lead individuals and drive growth while participating in the development of the product during the building process.
 - Ability to develop and maintain technology strategy/roadmaps in collaboration with applicable business technology partners.
 - A successful track record of working, developing, designing and presenting highly usable technical products for clients across the United States.
+- LLM‑powered agent workflows, AI orchestration, or MLOps pipelines
 - I love cheeseckae and a well tailoered flan. 
 
 ## Check out my- Project and Product Management WIKI
