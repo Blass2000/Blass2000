@@ -6,7 +6,7 @@
 Project Mangement, Product Management, IT management and former developer using technology to chaaaaange the world. 
 
 -⚡ Fun facts: ...
-- Over twenty years of technical development, IT and vendor management experience with the skills tailored to drive success in a thriving organization.
+- Over twenty years of technical development, Product and program management experience with the skills tailored to drive success in a thriving organization.
 - Over a decade +of successfully implementing technical projects using a variety of management techniques.
 - Sound technical discipline that includes software development, software/ hardware implementation.
 - Proven ability to lead individuals and drive growth while participating in the development of the product during the building process.
