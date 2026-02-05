@@ -63,19 +63,11 @@ Some of my favorites over the years- - where I have enjoyed hands-on experience 
 
 # Collaboration 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/2194b92b-0838-4517-9f77-7bb9a34b603c)
-## Top LLMs
-![GPT-4](https://link-to-gpt4-logo.png)
-![Claude 3](https://link-to-claude3-logo.png)
-![PaLM](https://link-to-palm-logo.png)
-![LLaMA 3](https://link-to-llama3-logo.png)
-![Jurassic](https://link-to-jurassic-logo.png)
 
-## AI Tools
-![LangChain](https://link-to-langchain-logo.png)
-![Hugging Face](https://link-to-huggingface-logo.png)
-![Pinecone](https://link-to-pinecone-logo.png)
-![Weaviate](https://link-to-weaviate-logo.png)
-![OpenAI](https://link-to-openai-logo.png)
+## Top LLMs/ AI
+<img width="1158" height="253" alt="image" src="https://github.com/user-attachments/assets/ec65f2d4-413a-4d29-8ea3-1c4c498980e1" />
+
+
 
 
 
