@@ -63,4 +63,8 @@ Some of my favorites over the years- - where I have enjoyed hands-on experience 
 
 # Collaboration 
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/2194b92b-0838-4517-9f77-7bb9a34b603c)
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/31d040ae-5d0b-4c9b-a6eb-7ca76f4703fc" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/df1bd38c-138f-4e1d-b4f8-d401dece97de" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/44107425-d6c5-4e86-b687-54b7a928c49a" />
+
 
