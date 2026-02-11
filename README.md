@@ -3,7 +3,7 @@
 ## Introduction
 
 💬 Ask me about ...
-Project Mangement, Product Management, IT Archtect and former developer using technology to chaaaaange the world. 
+Project Mangement, Product Management, IT Architect and former developer using technology to chaaaaange the world. 
 
 -⚡ Fun facts: ...
 - Over twenty years of technical development, Product and program management experience with the skills tailored to drive success in a thriving organization.
