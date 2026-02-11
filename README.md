@@ -15,11 +15,11 @@ Project Mangement, Product Management, IT Archtect and former developer using te
 - LLM‑powered agent workflows, AI orchestration, or MLOps pipelines
 - I love cheeseckae and a well tailoered flan. 
 
-## Check out my- Project and Product Management WIKI
+## Project and Product Management WIKI
 
 ## https://github.com/Blass2000/Blass2000/wiki/1.ProjectManagement
 
-## Check out my- Technical Managment WIKI
+## Technical Managment WIKI
 
 ## https://github.com/Blass2000/Blass2000/wiki/5.Lets-Talk-Tech
 
