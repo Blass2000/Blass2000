@@ -9,7 +9,7 @@ Project Mangement, Product Management, IT Architect and former developer using t
 - Over twenty years of technical development, Product and program management experience with the skills tailored to drive success in a thriving organization.
 - Over a decade +of successfully implementing technical projects using a variety of management techniques.
 - Sound technical discipline that includes software development, software/ hardware implementation.
-- Proven ability to lead individuals and drive growth while participating in the development of the product during the building process.
+- RevOps Proven ability to lead individuals and drive growth while participating in the development of the product during the building process.
 - Ability to develop and maintain technology strategy/roadmaps in collaboration with applicable business technology partners.
 - A successful track record of working, developing, designing and presenting highly usable technical products for clients across the United States.
 - LLM‑powered agent workflows, AI orchestration, or MLOps pipelines
