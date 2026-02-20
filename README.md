@@ -68,7 +68,9 @@ Some of my favorites over the years- - where I have enjoyed hands-on experience 
 <img width="1158" height="253" alt="image" src="https://github.com/user-attachments/assets/ec65f2d4-413a-4d29-8ea3-1c4c498980e1" />
 
 # Project and Product Management
-<img width="466" height="443" alt="image" src="https://github.com/user-attachments/assets/ff444076-20f1-40fc-b2ed-166a92c6c6bb" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ff444076-20f1-40fc-b2ed-166a92c6c6bb" /> <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/56f09e73-3fa7-4ecf-9a0f-5e1d97224ccb" />
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4c79ea08-1cc0-4f49-97fc-935177191543" />
+
 
 
 
