@@ -50,7 +50,8 @@ Some of my favorites over the years- - where I have enjoyed hands-on experience 
 
 # Development Frontend/backend
 
-![image](https://github.com/Blass2000/Blass2000/assets/89789502/22a0075b-ca63-4e9d-b5c2-1f47acbb425b)
+![image](https://github.com/Blass2000/Blass2000/assets/89789502/22a0075b-ca63-4e9d-b5c2-1f47acbb425b) 
+<img width="100" height="150" alt="image" src="https://github.com/user-attachments/assets/8aec4af9-4653-4c0c-8d0d-8a700e090b99" /> <img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/1bc6774c-7ebd-4fb6-80fd-762e79218320" />
 
 
 # Business Intelligence 
