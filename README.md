@@ -19,7 +19,7 @@ Project Mangement, Product Management, IT Architect and former developer using t
 
 ## https://github.com/Blass2000/Blass2000/wiki/1.ProjectManagement
 
-## Technical Managment WIKI
+## Technical Managment Sample Projects
 
 ## https://github.com/Blass2000/Blass2000/wiki/6.-Architecture-Diagrams:-Sample-Projects
 
