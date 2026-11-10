@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 -->
 
 Some of my favorites over the years- - where I have enjoyed hands-on experience with these solutions. 
+# Stacker
+
+<img width="480" height="667" alt="image" src="https://github.com/user-attachments/assets/cd17855d-2494-4846-8b8f-7239ffd48aa2" />
 
 # Cloud Domains
 ![image](https://github.com/Blass2000/Blass2000/assets/89789502/b6497c89-c7e8-4c3a-8ee4-7300eeaa03d3)
